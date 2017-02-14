@@ -106,13 +106,11 @@ In my free time, I enjoy tinkering and learning new things. Whether it’s maint
     bookings, payment acceptance, nudity filtering (my poor eyes),
     and more.
 
-**Education**
+#Education
 
-> **Wyncode Academy Miami, FL**
->
-> *Learned Ruby, Rails, and jQuery* Graduated April 2015
->
-> **University of Rochester Rochester, NY**
->
-> *Bachelor of Arts in Brain and Cognitive Science with Computer Science
-> Minor* Graduated December 2013
+**Wyncode Academy Miami, FL**
+Learned Ruby, Rails, and jQuery* Graduated April 2015
+
+**University of Rochester Rochester, NY**
+Bachelor of Arts in Brain and Cognitive Science with Computer Science
+Minor* Graduated December 2013
