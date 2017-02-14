@@ -1,4 +1,4 @@
-**Spencer Dellis**
+#Spencer Dellis
 
 [LinkedIn](https://www.linkedin.com/in/spencerdellis) –
 [GitHub](https://github.com/MuseofMoose) –
@@ -8,21 +8,15 @@ spencerdellis@gmail.com – (305) 336 3646
 
 **Summary**
 
-> I am a full-stack software engineer with two years of full-time
-> experience working with PHP, PHPUnit, AngularJS, JavaScript, Jasmine,
-> MySQL, and several other technologies.
+I am a full-stack software engineer with two years of full-time experience working with PHP, PHPUnit, AngularJS, JavaScript, Jasmine, MySQL, and several other technologies.
 
-In my free time, I enjoy tinkering and learning new things. Whether it’s
-maintaining an [open-source AngularJS
-directive](https://github.com/MuseofMoose/SearchSelect), building a
-[command-line over-world
-game](https://github.com/MuseofMoose/Terminal_Overworld_Game) in Ruby,
-or even just learning the ins and outs of a new video game, I am always
-eager to figure out and improve how things work.
+In my free time, I enjoy tinkering and learning new things. Whether it’s maintaining an [open-source AngularJS directive](https://github.com/MuseofMoose/SearchSelect), building a [command-line over-world game](https://github.com/MuseofMoose/Terminal_Overworld_Game) in Ruby, or even just learning the ins and outs of a new video game, I am always eager to figure out and improve how things work.
 
 **Projects and Experience**
 
-> **Engage** – <https://goo.gl/EVirRp> March 2016 – Present
+> **Engage** – <https://goo.gl/EVirRp> 
+> 
+> March 2016 – Present
 >
 > Full Stack Software Engineer – Watsco Ventures
 >
@@ -59,7 +53,9 @@ eager to figure out and improve how things work.
     roadmap in JIRA, convey current and potential development blockers,
     and improve feature estimation and deployment strategies.
 
-> **OnCall Air** March 2015 – March 2016
+> **OnCall Air** 
+> 
+> March 2015 – March 2016
 >
 > Junior Developer – Watsco Ventures
 >
@@ -89,7 +85,9 @@ eager to figure out and improve how things work.
     coverage of a majority of our API services and significantly less
     issues with deployed code.
 
-> **Becasted** – <https://goo.gl/MMrGBl> March 2015 – September 2015
+> **Becasted** – <https://goo.gl/MMrGBl> 
+> 
+> March 2015 – September 2015
 >
 > Lead Web Developer – MyStyleBlox
 >
