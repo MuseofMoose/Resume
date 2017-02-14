@@ -101,8 +101,8 @@ Ruby, Rails 4.2, RSpec, JavaScript, SCSS, HTML, Google Maps API
 #Education
 
 ###Wyncode Academy Miami, FL  
-Learned Ruby, Rails, and jQuery* Graduated April 2015
+- Learned Ruby, Rails, and jQuery* Graduated April 2015
 
 ###University of Rochester Rochester, NY  
-Bachelor of Arts in Brain and Cognitive Science with Computer Science
+- Bachelor of Arts in Brain and Cognitive Science with Computer Science
 Minor* Graduated December 2013
