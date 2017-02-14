@@ -14,7 +14,7 @@ In my free time, I enjoy tinkering and learning new things. Whether it’s maint
 
 ##Projects and Experience
 
-###Engage – <https://goo.gl/EVirRp> 
+###[Engage](https://app.oncallair.com)
 March 2016 – Present  
 Full Stack Software Engineer – Watsco Ventures  
 PHP, PHPUnit, Angular 1.5, JavaScript, Karma, Jasmine, SCSS, HTML, MySQL, Doctrine, Bamboo, Jenkins
@@ -77,7 +77,7 @@ PHP, PHPUnit, JavaScript, jQuery, SCSS, HTML, MySQL, Zend Framework, Doctrine, T
     coverage of a majority of our API services and significantly less
     issues with deployed code.
 
-###Becasted – <https://goo.gl/MMrGBl>
+###[Becasted](https://www.becasted.com)
 March 2015 – September 2015  
 Lead Web Developer – MyStyleBlox  
 Ruby, Rails 4.2, RSpec, JavaScript, SCSS, HTML, Google Maps API
@@ -98,7 +98,7 @@ Ruby, Rails 4.2, RSpec, JavaScript, SCSS, HTML, Google Maps API
     bookings, payment acceptance, nudity filtering (my poor eyes),
     and more.
 
-#Education
+##Education
 
 ###Wyncode Academy Miami, FL
 - Graduated April 2015  
