@@ -15,12 +15,9 @@ In my free time, I enjoy tinkering and learning new things. Whether it’s maint
 ##Projects and Experience
 
 ###Engage – <https://goo.gl/EVirRp> 
-> March 2016 – Present
->
-> Full Stack Software Engineer – Watsco Ventures
->
-> PHP, PHPUnit, Angular 1.5, JavaScript, Karma, Jasmine, SCSS, HTML,
-> MySQL, Doctrine, Bamboo, Jenkins
+March 2016 – Present  
+Full Stack Software Engineer – Watsco Ventures  
+PHP, PHPUnit, Angular 1.5, JavaScript, Karma, Jasmine, SCSS, HTML, MySQL, Doctrine, Bamboo, Jenkins
 >
 > *Engage is a web application for HVAC-R (Heating, Ventilation, AC, and
 > Refrigeration) service providers to build digital installation
@@ -53,12 +50,9 @@ In my free time, I enjoy tinkering and learning new things. Whether it’s maint
     and improve feature estimation and deployment strategies.
 
 ###OnCall Air 
-> March 2015 – March 2016
->
-> Junior Developer – Watsco Ventures
->
-> PHP, PHPUnit, JavaScript, jQuery, SCSS, HTML, MySQL, Zend Framework,
-> Doctrine, Twilio
+March 2015 – March 2016  
+Junior Developer – Watsco Ventures  
+PHP, PHPUnit, JavaScript, jQuery, SCSS, HTML, MySQL, Zend Framework, Doctrine, Twilio
 >
 > *OnCall Air is a web application for routing HVAC-R repair requests to
 > partnered service providers. The app provides a portal for customers
@@ -84,11 +78,9 @@ In my free time, I enjoy tinkering and learning new things. Whether it’s maint
     issues with deployed code.
 
 ###Becasted – <https://goo.gl/MMrGBl>
-> March 2015 – September 2015
->
-> Lead Web Developer – MyStyleBlox
->
-> Ruby, Rails 4.2, RSpec, JavaScript, SCSS, HTML, Google Maps API
+March 2015 – September 2015  
+Lead Web Developer – MyStyleBlox  
+Ruby, Rails 4.2, RSpec, JavaScript, SCSS, HTML, Google Maps API
 >
 > *Becasted is a Ruby on Rails marketplace app for bringing transparency
 > to the talent industry. Talent and clients can conduct business
@@ -108,9 +100,9 @@ In my free time, I enjoy tinkering and learning new things. Whether it’s maint
 
 #Education
 
-**Wyncode Academy Miami, FL**
+###Wyncode Academy Miami, FL  
 Learned Ruby, Rails, and jQuery* Graduated April 2015
 
-**University of Rochester Rochester, NY**
+###University of Rochester Rochester, NY  
 Bachelor of Arts in Brain and Cognitive Science with Computer Science
 Minor* Graduated December 2013
