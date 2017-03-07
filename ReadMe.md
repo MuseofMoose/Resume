@@ -10,6 +10,8 @@ spencerdellis@gmail.com – (305) 336 3646
 
 I am a full-stack software engineer with two years of full-time experience working with PHP, PHPUnit, AngularJS, JavaScript, Jasmine, MySQL, and several other technologies.
 
+As someone involved in many different parts of the development cycle, I’m a firm believer in integrating tools and strategies to improve the quality and efficacy of my team.
+
 In my free time, I enjoy tinkering and learning new things. Whether it’s maintaining an [open-source AngularJS directive](https://github.com/MuseofMoose/SearchSelect), building a [command-line over-world game](https://github.com/MuseofMoose/Terminal_Overworld_Game) in Ruby, or even just learning the ins and outs of a new video game, I am always eager to figure out and improve how things work.
 
 ##Projects and Experience
@@ -19,12 +21,8 @@ March 2016 – Present
 Full Stack Software Engineer – Watsco Ventures  
 PHP, PHPUnit, Angular 1.5, JavaScript, Karma, Jasmine, SCSS, HTML, MySQL, Doctrine, Bamboo, Jenkins
 >
-> *Engage is a web application for HVAC-R (Heating, Ventilation, AC, and
-> Refrigeration) service providers to build digital installation
-> proposals. A provider who signs up can upload and configure the
-> equipment and settings they use for their installations. Then, the
-> provider’s employees can use the application to build a diverse set of
-> proposals on the fly and present them to customers.*
+> *Engage is a web application for HVAC-R (Heating, Ventilation, AC, and Refrigeration) service 
+> providers to build digital, interactive installation proposals with live, provider-specific pricing.*
 
 -   Developed a single-page AngularJS application for providers to build
     installation proposals.
@@ -54,11 +52,9 @@ March 2015 – March 2016
 Junior Developer – Watsco Ventures  
 PHP, PHPUnit, JavaScript, jQuery, SCSS, HTML, MySQL, Zend Framework, Doctrine, Twilio
 >
-> *OnCall Air is a web application for routing HVAC-R repair requests to
-> partnered service providers. The app provides a portal for customers
-> to make and monitor requests, as well as one for service providers to
-> manage incoming and past opportunities. Both portals are linked to a
-> single API that manages transactions and data storage/retrieval.*
+> *OnCall Air is a web application for capturing HVAC-R repair requests from customers, 
+> routing them to partnered service providers, and providing a diverse set of tools for 
+> managing the request from either side.*
 
 -   Built out the customer-facing application, which included a flow for
     submitting a request, a dashboard for monitoring a request’s status,
