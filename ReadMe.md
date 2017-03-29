@@ -1,4 +1,4 @@
-#Spencer Dellis
+# Spencer Dellis
 
 [LinkedIn](https://www.linkedin.com/in/spencerdellis) –
 [GitHub](https://github.com/MuseofMoose) –
@@ -6,7 +6,7 @@
 
 spencerdellis@gmail.com – (305) 336 3646
 
-##Summary
+## Summary
 
 I am a full-stack software engineer with two years of full-time experience working with PHP, PHPUnit, AngularJS, JavaScript, Jasmine, MySQL, and several other technologies.
 
@@ -14,9 +14,9 @@ As someone involved in many different parts of the development cycle, I’m a fi
 
 In my free time, I enjoy tinkering and learning new things. Whether it’s maintaining an [open-source AngularJS directive](https://github.com/MuseofMoose/SearchSelect), building a [command-line over-world game](https://github.com/MuseofMoose/Terminal_Overworld_Game) in Ruby, or even just learning the ins and outs of a new video game, I am always eager to figure out and improve how things work.
 
-##Projects and Experience
+## Projects and Experience
 
-###[Engage](https://app.oncallair.com)
+### [Engage](https://app.oncallair.com)
 March 2016 – Present  
 Full Stack Software Engineer – Watsco Ventures  
 PHP, PHPUnit, Angular 1.5, JavaScript, Karma, Jasmine, SCSS, HTML, MySQL, Doctrine, Bamboo, Jenkins
@@ -47,7 +47,7 @@ PHP, PHPUnit, Angular 1.5, JavaScript, Karma, Jasmine, SCSS, HTML, MySQL, Doctri
     roadmap in JIRA, convey current and potential development blockers,
     and improve feature estimation and deployment strategies.
 
-###OnCall Air 
+### OnCall Air 
 March 2015 – March 2016  
 Junior Developer – Watsco Ventures  
 PHP, PHPUnit, JavaScript, jQuery, SCSS, HTML, MySQL, Zend Framework, Doctrine, Twilio
@@ -73,7 +73,7 @@ PHP, PHPUnit, JavaScript, jQuery, SCSS, HTML, MySQL, Zend Framework, Doctrine, T
     coverage of a majority of our API services and significantly less
     issues with deployed code.
 
-###[Becasted](https://www.becasted.com)
+### [Becasted](https://www.becasted.com)
 March 2015 – September 2015  
 Lead Web Developer – MyStyleBlox  
 Ruby, Rails 4.2, RSpec, JavaScript, SCSS, HTML, Google Maps API
@@ -94,13 +94,13 @@ Ruby, Rails 4.2, RSpec, JavaScript, SCSS, HTML, Google Maps API
     bookings, payment acceptance, nudity filtering (my poor eyes),
     and more.
 
-##Education
+## Education
 
-###Wyncode Academy Miami, FL
+### Wyncode Academy Miami, FL
 - Graduated April 2015  
 - Learned Ruby, Rails, and jQuery
 
-###University of Rochester Rochester, NY  
+### University of Rochester Rochester, NY  
 - Graduated December 2013  
 - Bachelor of Arts in Brain and Cognitive Science with Computer Science
 Minor* 
